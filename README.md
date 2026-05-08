@@ -2,6 +2,10 @@
 
 A modern, recreation of the Rise at Seven agency website, an award-winning search-first content marketing agency.
 
+---
+
+![Page](https://i.ibb.co.com/nNtVcdCZ/Screenshot-2026-05-09-040417.png)
+
 ## Live Demo
 
 [https://theriseatseven.vercel.app/](https://theriseatseven.vercel.app/)
