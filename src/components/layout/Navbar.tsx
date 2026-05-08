@@ -95,7 +95,7 @@ export default function Navbar({ onMenuChange }: NavbarProps) {
         {/* Logo */}
         <Link href="/" className="flex-shrink-0 cursor-pointer">
           <Image
-            src="/public/image.webp"
+            src="/hero/RiseatSeven.webp"
             alt="Rise at Seven"
             width={140}
             height={32}
@@ -138,7 +138,7 @@ export default function Navbar({ onMenuChange }: NavbarProps) {
                 </div>
                 <div className="w-[220px] relative flex-shrink-0">
                   <Image
-                    src="/public/image.webp"
+                    src="/hero/RiseatSeven.webp"
                     alt=""
                     fill
                     className="object-cover"
@@ -184,7 +184,7 @@ export default function Navbar({ onMenuChange }: NavbarProps) {
                 </div>
                 <div className="w-[200px] relative flex-shrink-0 m-3 rounded-xl overflow-hidden">
                   <Image
-                    src="/public/image.webp"
+                    src="/hero/RiseatSeven.webp"
                     alt=""
                     fill
                     className="object-cover"
@@ -223,7 +223,7 @@ export default function Navbar({ onMenuChange }: NavbarProps) {
                 </div>
                 <div className="w-[200px] relative flex-shrink-0 m-3 rounded-xl overflow-hidden">
                   <Image
-                    src="/public/image.webp"
+                    src="/hero/RiseatSeven.webp"
                     alt=""
                     fill
                     className="object-cover"
@@ -259,7 +259,7 @@ export default function Navbar({ onMenuChange }: NavbarProps) {
                 </div>
                 <div className="w-[200px] relative flex-shrink-0 m-3 rounded-xl overflow-hidden">
                   <Image
-                    src="/public/image.webp"
+                    src="/hero/RiseatSeven.webp"
                     alt=""
                     fill
                     className="object-cover"
@@ -317,7 +317,7 @@ export default function Navbar({ onMenuChange }: NavbarProps) {
                 </div>
                 <div className="w-[180px] relative flex-shrink-0 m-3 rounded-xl overflow-hidden">
                   <Image
-                    src="/public/image.webp"
+                    src="/hero/RiseatSeven.webp"
                     alt=""
                     fill
                     className="object-cover"

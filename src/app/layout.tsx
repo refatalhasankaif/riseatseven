@@ -20,7 +20,7 @@ const saans = localFont({
             style: "normal",
         },
         {
-            path: "./fonts/SaansSemibold.woff2",
+            path: "./fonts/SaansSemiBold.woff2",
             weight: "600",
             style: "normal",
         },

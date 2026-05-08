@@ -84,7 +84,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
           <div className="flex items-center justify-between px-5 py-4 flex-shrink-0">
             <Link href="/" onClick={onClose} className="cursor-pointer">
               <Image
-                src="/public/image.webp"
+                src="/hero/RiseatSeven.webp"
                 alt="Rise at Seven"
                 width={120}
                 height={28}
