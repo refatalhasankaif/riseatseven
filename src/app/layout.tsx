@@ -5,27 +5,27 @@ import localFont from "next/font/local";
 const saans = localFont({
     src: [
         {
-            path: "/fonts/SaansLight.woff2",
+            path: "./fonts/SaansLight.woff2",
             weight: "300",
             style: "normal",
         },
         {
-            path: "/fonts/SaansRegular.woff2",
+            path: "./fonts/SaansRegular.woff2",
             weight: "400",
             style: "normal",
         },
         {
-            path: "/fonts/SaansMedium.woff2",
+            path: "./fonts/SaansMedium.woff2",
             weight: "500",
             style: "normal",
         },
         {
-            path: "/fonts/SaansSemibold.woff2",
+            path: "./fonts/SaansSemibold.woff2",
             weight: "600",
             style: "normal",
         },
         {
-            path: "/fonts/SaansBold.woff2",
+            path: "./fonts/SaansBold.woff2",
             weight: "700",
             style: "normal",
         },

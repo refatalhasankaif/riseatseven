@@ -1,4 +1,5 @@
 "use client";
+
 import Image from "next/image";
 import { useState } from "react";
 
@@ -102,19 +103,11 @@ export default function HeroSection({ isBlurred }: HeroProps) {
                             search-first content for SEO, Social, PR, Ai and LLM search
                         </p>
                     </div>
-                    <div
-                        className="
-    absolute bottom-4
-    left-1/2 -translate-x-1/2 text-center
-
-    md:left-auto md:translate-x-0
-    md:right-5 md:text-right
-  "
-                    >
+                    <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-center md:left-auto md:translate-x-0 md:right-5 md:text-right">
                         <p className="text-white text-[14px] font-semibold md:text-[14px] lg:text-[17px] leading-relaxed tracking-tight">
                             4 Global Offices serving
                             <br />
-                                UK, USA (New York) & EU
+                            UK, USA (New York) & EU
                         </p>
                     </div>
                 </div>
