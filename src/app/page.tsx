@@ -12,7 +12,7 @@ export default function Home() {
         <main className="flex flex-col w-full overflow-x-hidden">
             <AnnouncementBar />
             <div className="relative">
-                {/* <Navbar onMenuChange={setIsNavOpen} /> */}
+                <Navbar onMenuChange={setIsNavOpen} />
                 <HeroSection isBlurred={isNavOpen} />
             </div>
         </main>
