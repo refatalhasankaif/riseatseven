@@ -4,7 +4,7 @@ A modern, recreation of the Rise at Seven agency website, an award-winning searc
 
 ---
 
-![Page](https://i.ibb.co.com/67fLWQv3/Screenshot-2026-05-09-040734.png)
+![Page](https://i.ibb.co.com/v6RMJ3Dk/Green-Simple-Nature-Lake-With-Name-Desktop-Wallpaper-1.jpg)
 
 ## Live Demo
 
